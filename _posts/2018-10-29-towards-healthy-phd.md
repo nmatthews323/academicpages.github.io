@@ -1,4 +1,3 @@
-
 ---
 title: A dogma of sustainability in Synthetic Biology?
 date: 2017-09-22
