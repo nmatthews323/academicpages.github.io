@@ -1,8 +1,11 @@
----
-layout: post
-title:  "Towards a Healthy PhD"
----
 
+---
+title: A dogma of sustainability in Synthetic Biology?
+date: 2017-09-22
+permalink: /dogma-sustainability-synthetic-biology/
+tags:
+  - Uncategorized
+---
 
 PhDs are notorious for a poor work-life balance, and the scale of the mental health and wellbeing issues of PhD students is extremely concerning. 
 During the past year of my PhD I’ve experienced my fair share of doubts, stress and anxiety issues. 
