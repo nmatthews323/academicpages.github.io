@@ -1,7 +1,7 @@
 ---
-title: A dogma of sustainability in Synthetic Biology?
-date: 2017-09-22
-permalink: /dogma-sustainability-synthetic-biology/
+title: Towards a Healthy PhD
+date: 2018-10-29
+permalink: /Towards-Healthy-PhD/
 tags:
   - Uncategorized
 ---
