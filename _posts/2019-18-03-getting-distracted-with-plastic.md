@@ -1,21 +1,21 @@
 ---
-title: In defence of plastic
-date: 2017-12-04
-permalink: /sbuk2017/
+title: Getting Distracted With Plastic
+date: 2019-18-03
+permalink: /getting-distracted-with-plastic/
 tags:
   - Uncategorized
 ---
 
-“Single-use” was the Collins word of the year  for 2018, reflecting widespread public concerning the volume of plastic being thrown away, and invariably ending up in the oceans. The response has been impressive with people making real change in their day-to-day lives and consumer pressure starting to force changes in supermarkets. Co-op recently announced they would introduce compostable carrier  bags that can be re-used for food waste. However, as with all sustainability issues, it’s never as simple as “x is bad, so let’s replace x with y”. Indeed, in this case I (and a small minority of others) fear we are stuck in a dogmatic rejection of plastic, and as a result losing sight of the key issues. It’s notable that the only environmental announcement in the last UK budget related to single-use plastics. 
+“Single-use” was the Collins word of the year  for 2018, reflecting widespread public concerning the volume of plastic being thrown away, and invariably ending up in the oceans. The response has been impressive with people making real change in their day-to-day lives and consumer pressure starting to force changes in supermarkets. Co-op recently announced they would introduce compostable carrier  bags that can be re-used for food waste. However, as with all sustainability issues, it’s never as simple as “x is bad, so let’s replace x with y”. Indeed, in this case I (and a growing number of others) fear we are stuck in a dogmatic rejection of plastic, and as a result losing sight of the key issues. It’s notable that the only environmental announcement in the last UK budget related to single-use plastics.
 
 # In defence of plastic
 Crucially, plastic is not in itself unsustainable. At least the alternatives are not necessarily any better. Furthermore, new, plastic containing composites will no-doubt play an important role in the eco-innovations which could help build a more sustainable society. Thus, I contend that the current “war on plastic” is somewhat misguided. This is in the same way that branding fat as unhealthy was not completely wrong, but missed the point that sugar was a far bigger problem and that fats perform an important and healthy party of a healthy diet. Much like fats, we currently use far too much plastic, but it’s not inherently bad, and may have an important role to play in more sustainable futures.
 Paper bags? Cotton Bags?
 
 There’s been lots of work to reduce plastic use, not least the 5p plastic bag charge. This has encouraged the use of more durable bags for life but a recent study suggested this could actually have increased overall plastic usage as we are failing to . Other shops might use paper or cotton alternatives, but depending on the number of re-uses, these are not necessarily better. According to an environment agency study , To have the same global warming impact as a single-use plastic bag:
--A paper bag must be re-used three times.
--A more durable LDPE bag must be re-used 4 times.
--A cotton bag must be re-used a whopping 131 times.
+- A paper bag must be re-used three times.
+- A more durable LDPE bag must be re-used 4 times.
+- A cotton bag must be re-used a whopping 131 times.
 Obviously this ignores the key plastic waste issues, but it also shows how these initiatives involve so-called sustainable choices are made without attention to the evidence. Next time you get offered a paper bag for a couple of organic carrots you just bought turn if down and pull out 
 An infuriating example of this was at the end of Oxford Half Marathon where we were handed an aluminium CanOWater , labelled on the side with claims of greater sustainability by using aluminium rather than plastic. Aluminium is a more sustainable alternative to plastic for packaging IF it is recycled and does have very high rates of recycling, rather than downcycled as is the case with plastic. However, I proceeded to walk past bin after bin overflowing with these metal cans, set for landfill. Metal extraction and processing is highly energy intensive process. Collection, recycling and redistribution is also energy demanding. Debating the relative merits of metal and plastic for packaging water is completely missing the point though. The problem is not which packaging we are using to package and distribute water, but that we are packaging water in the first place.
 # What about all these “sustainable alternatives”?
