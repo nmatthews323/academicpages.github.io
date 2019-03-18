@@ -1,5 +1,5 @@
 ---
-title: Driving and hiking in equal measures, and some bears &#8211; two complete amateurs on a Californian road-trip.
+title: Driving and hiking in equal measures, and some bears; two complete amateurs on a Californian road-trip.
 date: 2018-09-09
 permalink: /driving-hiking-equal-measures/
 tags:
