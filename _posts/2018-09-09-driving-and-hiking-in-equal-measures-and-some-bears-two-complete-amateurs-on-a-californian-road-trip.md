@@ -14,15 +14,14 @@ The first day of the road-trip was relatively uneventful. We drove south on High
 
 Day 2 of the road trip was a long one, with three hefty drives crammed into one day. The first was the iconic drive along the coast through Big Sur. It says something about the subsequent drives that this world-famous drive was barely in the top five best drives, but beautiful nonetheless. After a hefty lunch we turned inland and were confronted with flat open plains, rising temperatures and small-town America, and it was just as strange and amazing as it had been described to us. Finally, we reached the Sierra Nevada mountain range, driving up into Camp Nelson as the sun descended. We stayed in a little wood cabin which looked like it was lost in time and the next morning tried a hike up amongst the Giant Sequoias which were impressive and peaceful until a bear ran across our path about 20 metres ahead. Safe to say we quickly descended the hill, and continued our drive.
 
-<img float="left" width="200" src="http://nmatthews323.github.io/assets/Yosemite.jpg">
+<img align="left" width="200" border=5 src="http://nmatthews323.github.io/assets/Yosemite.jpg">
 
 Day 3’s drive led us through Sequoia National Park, to see some more giant trees. It was well worth it, driving amongst the Sequoias felt truly magical, and allowed us to see General Sherman (Right), the largest tree in the world by volume. Our brief drive through this national park seemed far too short, and I would love to go back and explore the trails amongst the Sequoia groves.
 
 
-
 Day 4 would be the only day we would spend in Yosemite Valley. Planning our visit at our overnight stop in Oakhurst the night before, we quickly realised that to do it justice, we would need to do a pretty hefty day-hike. So we set off at 6.30am to drive into Yosemite and followed the four-mile hike trail up to Glacier Point, where you can peer down over the railings at a 3,000 ft vertical drop. On the slow descent down the panorama trail we had our second bear encounter. We saw a mother and two cubs coming slowly up the path towards us. Again, we turned around and went the other way, but meeting three Americans who were working in the park, they assured us we were fine, and proceeded to put on some loud music and make plenty of noise to scare them off. Suddenly bears didn’t seem so scary after-all. Several miles of walking later, and after a brief hiccup involving many sandy steps, we made it back to the valley and set off for a dusk drive across the tioga road to Mono Lake. For me, this was the most spectacular drive of the trip, climbing to over 10,000 feet, at one point looking back to see half-dome of Yosemite Valley silhouetted against the red-orange sky.
 
-<img align="right" width="200" src="http://nmatthews323.github.io/assets/HalfDome.jpg">
+<img align="right" width="200" border=50 src="http://nmatthews323.github.io/assets/HalfDome.jpg">
 
 Waking up at Mono Lake House the next morning and eating breakfast on the edge of Mono Lake, Day 5 was our &#8216;rest day&#8217;. Except our host was excited about our exploits in Yosemite and recommended a nice hike for us. So after a lazy morning we drove back towards Yosemite and walked up to a group of three remote glacial lakes at 10,600 feet, in possibly the most remote place either of us had ever been. When you bumped into someone up here that you didn’t just say a cheery hello, you stopped for a chat.
 
