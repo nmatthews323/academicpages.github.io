@@ -1,12 +1,12 @@
 ---
-title: Getting Distracted With Plastic
+title: Getting distracted with plastic
 date: 2019-03-18
 permalink: /getting-distracted-with-plastic/
 tags:
   - Uncategorized
 ---
 
-“Single-use” was the [Collins word of the year](https://www.collinsdictionary.com/woty) for 2018, reflecting widespread public concerning the volume of plastic being thrown away, and invariably ending up in the oceans. The response has been impressive with people making real change in their day-to-day lives and consumer pressure starting to force changes in supermarkets. [Co-op recently](https://www.bbc.co.uk/news/uk-45612315) announced they would introduce compostable carrier  bags that can be re-used for food waste. However, as with all sustainability issues, it’s never as simple as “x is bad, so let’s replace x with y”. Indeed, in this case, I (and a growing number of others) fear we are stuck in a dogmatic rejection of plastic, and as a result losing sight of the key issues. It’s notable that the [only environmental announcement in the last UK budget related to single-use plastics](https://www.greenparty.org.uk/news/2018/10/29/caroline-lucas-budget-a-slap-in-the-face-for-headteachers/).
+“Single-use” was the [Collins word of the year](https://www.collinsdictionary.com/woty) for 2018, reflecting widespread public concern about the volume of plastic being thrown away, and invariably ending up in the oceans. The response has been impressive with people making real change in their day-to-day lives and consumer pressure starting to force changes in supermarkets. [Co-op recently](https://www.bbc.co.uk/news/uk-45612315) announced they would introduce compostable carrier  bags that can be re-used for food waste. However, as with all sustainability issues, it’s never as simple as “x is bad, so let’s replace x with y”. Indeed, in this case, I (and a growing number of others) fear we are stuck in a dogmatic rejection of plastic, and as a result losing sight of the key issues. It’s notable that the [only environmental announcement in the last UK budget related to single-use plastics](https://www.greenparty.org.uk/news/2018/10/29/caroline-lucas-budget-a-slap-in-the-face-for-headteachers/).
 
 ## In defence of plastic
 Crucially, plastic is not in itself unsustainable. At least the alternatives are not necessarily any better. Furthermore, new, plastic containing composites will no-doubt play an important role in the eco-innovations which could help build a more sustainable society. Thus, I contend that the current “war on plastic” is somewhat misguided. This is in the same way that branding fat as unhealthy was not completely wrong, but missed the point that sugar was a far bigger problem and that fats perform an important part of a healthy diet. Much like fats, we currently use far too much plastic, but it’s not inherently bad and may have an important role to play in more sustainable futures.
