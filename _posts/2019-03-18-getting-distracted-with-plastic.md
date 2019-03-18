@@ -29,5 +29,5 @@ We’ve seen a lot of development in bio-based plastics in recent years. In my v
 This is not a plea to stop being bothered about sustainability. The growing interest in making sustainable choices is inspiring and promising. All of these cases that I’ve described involve people trying to do good but demonstrate the problem with trying to find easy fixes to single issues without considering the bigger picture and the pitfalls in not considering how people use and dispose of materials in reality. In all these cases the evidence was out there.
 We need a bit more healthy scepticism. Furthermore, we need to stop getting distracted with single issues. The sustainability challenge we face is highly complex requiring a complex, multifaceted and system-wide response. So lets keep working to live more sustainable lives, and more importantly, vote and lobby to ensure our politicians take the necessary (and hard) high-level decisions. In the words of Albert Einstein: 
 <p align="center">
-*Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.* – Albert Einstein
+<i>Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.</i>
  </p>
