@@ -14,7 +14,7 @@ The first day of the road-trip was relatively uneventful. We drove south on High
 
 Day 2 of the road trip was a long one, with three hefty drives crammed into one day. The first was the iconic drive along the coast through Big Sur. It says something about the subsequent drives that this world-famous drive was barely in the top five best drives, but beautiful nonetheless. After a hefty lunch we turned inland and were confronted with flat open plains, rising temperatures and small-town America, and it was just as strange and amazing as it had been described to us. Finally, we reached the Sierra Nevada mountain range, driving up into Camp Nelson as the sun descended. We stayed in a little wood cabin which looked like it was lost in time and the next morning tried a hike up amongst the Giant Sequoias which were impressive and peaceful until a bear ran across our path about 20 metres ahead. Safe to say we quickly descended the hill, and continued our drive.
 
-<img align="left" width="200" border=5 src="http://nmatthews323.github.io/assets/Yosemite.jpg">
+<img align="left" width="200" border=5px src="http://nmatthews323.github.io/assets/Yosemite.jpg">
 
 Day 3’s drive led us through Sequoia National Park, to see some more giant trees. It was well worth it, driving amongst the Sequoias felt truly magical, and allowed us to see General Sherman (Right), the largest tree in the world by volume. Our brief drive through this national park seemed far too short, and I would love to go back and explore the trails amongst the Sequoia groves.
 
