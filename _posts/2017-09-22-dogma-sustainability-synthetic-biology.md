@@ -1,16 +1,11 @@
 ---
-id: 389
 title: A dogma of sustainability in Synthetic Biology?
-date: 2017-09-22T17:01:57+00:00
-author: Nick Matthews
-layout: post
-guid: http://nmatthews.co.uk/?p=389
+date: 2017-09-22
 permalink: /dogma-sustainability-synthetic-biology/
-swp_pinterest_image_url:
-  - ""
-categories:
+tags:
   - Uncategorized
 ---
+
 This is a somewhat self-indulgent blog post for someone about to start a PhD investigating the sustainability implications of Synthetic Biology applications, but for my first blog post, I thought I’d pick some low hanging fruit. I’m using these blog posts as a sounding board as I navigate the world of research. If you disagree with something, or if something I say irks you, or if you have something to add, please get in contact.
 
 Anyone who’s read literature relating to Synthetic Biology will regularly come across phrases like “more sustainable production” attached to descriptions of possible Synthetic Biology technologies. In the 2016 Synthetic Biology strategic plan for the UK, “Biodesign for the Bioeconomy”, sustainability is repeatedly touted as a key advantage of SynBio based methods. Repeat after me, “Synthetic Biology is a route to a sustainable future”, or so the dogma goes.
