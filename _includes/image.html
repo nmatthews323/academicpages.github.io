@@ -1,6 +1,6 @@
 {% if include.caption %}
-    <img src="{{ include.name }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+    <img src="{{ include.name }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %} {% if include.align %} width="{{ include.align }}" {% endif %}/>
     <span class="caption">{{ include.caption }}</span>
 {% else %}
-    <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+    <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %} {% if include.align %} width="{{ include.align }}" {% endif %}/>
 {% endif %}
