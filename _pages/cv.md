@@ -68,7 +68,7 @@ Executive Committee Member
 * **Constructive sustainability assessment: implementing a responsible research and innovation approach for emerging technologies** Poster Presentation, Postgraduate Research Summer Showcase, University of Manchester, Manchester, UK (July 2018)
 
 # Journal Articles
-* Matthews, N. E., Cizauskas, C. A., Layton, D. S., Stamford, L., & Shapira, P. (2019). Collaborating constructively for sustainable biotechnology. *Scientific Reports*, 9, 19033. [https://doi.org/10.1038/s41598-019-54331-7]
-* Matthews, N. E., & White, R. (2019). Chromatin Architecture in the Fly: Living without CTCF/Cohesin Loop Extrusion? *BioEssays*, 41(9), 1900048. [https://doi.org/10.1002/bies.201900048]
-* Matthews, N. E., Stamford, L., & Shapira, P. (2019). Aligning sustainability assessment with responsible research and innovation: Towards a framework for Constructive Sustainability Assessment. *Sustainable Production and Consumption*, 20, 58–73. [https://doi.org/10.1016/j.spc.2019.05.002]
-* Kundu, O., & Matthews, N. E. (2019). The Role of Charitable Funding in University Research. *Science and Public Policy*, 46(4), 611–619. [https://doi.org/10.1093/scipol/scz003]
+* Matthews, N. E., Cizauskas, C. A., Layton, D. S., Stamford, L., & Shapira, P. (2019). Collaborating constructively for sustainable biotechnology. *Scientific Reports*, 9, 19033. http://doi.org/10.1038/s41598-019-54331-7
+* Matthews, N. E., & White, R. (2019). Chromatin Architecture in the Fly: Living without CTCF/Cohesin Loop Extrusion? *BioEssays*, 41(9), 1900048. http://doi.org/10.1002/bies.201900048
+* Matthews, N. E., Stamford, L., & Shapira, P. (2019). Aligning sustainability assessment with responsible research and innovation: Towards a framework for Constructive Sustainability Assessment. *Sustainable Production and Consumption*, 20, 58–73. http://doi.org/10.1016/j.spc.2019.05.002
+* Kundu, O., & Matthews, N. E. (2019). The Role of Charitable Funding in University Research. *Science and Public Policy*, 46(4), 611–619. http://doi.org/10.1093/scipol/scz003
