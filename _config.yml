@@ -86,7 +86,7 @@ author:
   location         : "Manchester, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=PseqpeEAAAAJ&hl=en
+  googlescholar    : # "https://scholar.google.com/citations?user=PseqpeEAAAAJ&hl=en
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Nicholas_Matthews6"
   uri              :
