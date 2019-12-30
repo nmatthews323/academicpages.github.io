@@ -19,7 +19,10 @@ redirect_from:
 A Levels: 4A\*s Biology, Chemistry, Mathematics and Further Mathematics GCSEs: 7A*s and 3As  
 
 # EXPERIENCE
-**University of Manchester** *October 2018 - Present*  
+**Government Office for Science** *July 2019 - October 2019*
+Project Research Officer *London, UK*
+
+**University of Manchester** *October 2018 - June 2019*  
 Graduate Teaching Assistant *Manchester, UK*
 
 **Sidney Sussex College Bursar's Office** *Summer 2016 and 2017*  
@@ -28,20 +31,17 @@ Intern *Cambridge, UK*
 **Sidney Sussex College Bar** *December 2014 - December 2015*  
 Bar Manager *Cambridge, UK*
 
-**Superdrug Stores PLC** *Summer 2013*  
-Sales Advisor *Bristol, UK*
-
-**Stonebarn Landscapes** *Summer 2011 and 2015*  
-Labourer *Bristol, UK*
-
 # POSITIONS OF RESPONSIBILITY
-**Manchester Institute of Innovation Research** *June 2018 - Present*  
+**University of Manchester Student's Union** *July 2019 - Present*
+Student Trustee
+
+**Manchester Institute of Innovation Research** *June 2018 - October 2019*  
 PhD Representative
 
-**University of Manchester Squash Club** *May 2018 - Present*  
+**University of Manchester Squash Club** *May 2018 - May 2019*  
 Treasurer
 
-**Sidney Sussex College** *September 2016-June 2017*  
+**Sidney Sussex College** *September 2016 - June 2017*  
 Trustee
 
 **Sidney Sussex June Event 2017** *August 2016 - August 2017*  
@@ -68,5 +68,7 @@ Executive Committee Member
 * **Constructive sustainability assessment: implementing a responsible research and innovation approach for emerging technologies** Poster Presentation, Postgraduate Research Summer Showcase, University of Manchester, Manchester, UK (July 2018)
 
 # Journal Articles
-## Accepted for Publication
-* Kundu, O., & Matthews N.E. The Role of Charitable Funding in University Research. *Science and Public Policy*
+* Matthews, N. E., Cizauskas, C. A., Layton, D. S., Stamford, L., & Shapira, P. (2019). Collaborating constructively for sustainable biotechnology. *Scientific Reports*, 9, 19033. https://doi.org/10.1038/s41598-019-54331-7
+* Matthews, N. E., & White, R. (2019). Chromatin Architecture in the Fly: Living without CTCF/Cohesin Loop Extrusion? *BioEssays*, 41(9), 1900048. https://doi.org/10.1002/bies.201900048
+* Matthews, N. E., Stamford, L., & Shapira, P. (2019). Aligning sustainability assessment with responsible research and innovation: Towards a framework for Constructive Sustainability Assessment. *Sustainable Production and Consumption*, 20, 58–73. https://doi.org/10.1016/j.spc.2019.05.002
+* Kundu, O., & Matthews, N. E. (2019). The Role of Charitable Funding in University Research. *Science and Public Policy*, 46(4), 611–619. https://doi.org/10.1093/scipol/scz003
