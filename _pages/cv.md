@@ -22,10 +22,10 @@ A Levels: 4A\*s Biology, Chemistry, Mathematics and Further Mathematics GCSEs: 7
 **Government Office for Science** *July 2019 - October 2019*
 Project Research Officer *London, UK*
 
-**University of Manchester** *October 2018 - June 2019*  
+**University of Manchester** *October 2018 - June 2019*
 Graduate Teaching Assistant *Manchester, UK*
 
-**Sidney Sussex College Bursar's Office** *Summer 2016 and 2017*  
+**Sidney Sussex College Bursar's Office** *Summer 2016 and 2017*
 Intern *Cambridge, UK*
 
 **Sidney Sussex College Bar** *December 2014 - December 2015*  
