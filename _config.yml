@@ -186,6 +186,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  thesis:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -205,6 +208,13 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _thesis
+  - scope:
+      path: ""
+      type: thesis
     values:
       layout: single
       author_profile: true
