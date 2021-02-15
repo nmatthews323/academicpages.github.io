@@ -8,20 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Manchester Institute of Innovation Research, University of Manchester. 
-I am also affiliated to the [Sustainable Industrial Systems](http://www.sustainable-systems.org.uk/) (SIS) group within the School of Chemical Engineering and Analytical Science and I am a member of the [Responsible Research and Innovation](http://synbiochem.co.uk/responsible-research-and-innovation/) group in the Manchester Synthetic Biology Research Centre ([SynBioChem](http://http://synbiochem.co.uk)).
-My PhD is entitled *Constructive sustainability assessment: implementing a responsible research and innovation approach for synthetic biology"* and my supervisors are [Professor Philip Shapira](https://www.research.manchester.ac.uk/portal/pshapira.html) and [Dr Laurence Stamford](https://www.research.manchester.ac.uk/portal/en/researchers/laurence-stamford(ce5ed440-a6f0-4b25-b8d5-80a3ee2fbfc2).html).
-Through my research I am developing ways to carry out sustainability assessments of emerging technologies like synthetic biology at low-technology readiness levels in a manner that is more in line with the principles of responsible research and innovation. 
-Application and testing of my approaches in a variety of contexts is helping me develop a framework for constructive sustainability assessment (CSA).
+I recently submitted my PhD in Science Technology and Innovation Policy at the University of Manchester. My PhD research has focussed on the sustainability assessment and the sustainable governance of emerging technologies, with particular focus on Synthetic Biology (sometimes called Engineering Biology). I have published peer-reviewed academic articles in a variety of disciplines including sustainability, public policy, and biology.
 
-My PhD situates me at the interface of the natural and social sciences, which I think is essential when studying the complex and "wicked" challenge of sustainability.
-On the one hand I develop and apply techniques such as process modelling and life-cycle methods for evaluating sustainability of specific products.
-Meanwhile I also engage in deliberative activities and other qualitative methods more typical of the social sciences, exploring the process through which we carry out and use sustainability assessments.
+A common theme amongst my research, my work, and my voluntary activities is a desire to create more effective systems and processes for delivering societally desirable outcomes. I intend to pursue a career that utilises these experiences to help support society to transition to being more sustainable and equitable.
 
-I started the PhD after doing a BA in Natural Sciences and a MSci in Systems Biology, both at the University of Cambridge. 
-By shifting fields I have been able to look at the "bigger picture" of science, and study how scientific and technological developments can impact on the environment and wider society.
-After completing my PhD I want to continue to build on this work, helping to link science with society, and help to ensure that science delivers on the promises it makes.
+On this site you can find more information about me, my work, and very occasional blog posts. Feel to get in contact through the links on the left. 
 
-Outside of my PhD research I remain facinated by biology and passionate about sustainability. 
-I enjoy pretty much any physical activity, whether it be running, hiking, squash, skiing. 
 
