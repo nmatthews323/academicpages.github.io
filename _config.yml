@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : nmatt323
+  username               : ne_matthews
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "Manchester, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=PseqpeEAAAAJ&hl=en
+  googlescholar    : "https://scholar.google.com/citations?user=PseqpeEAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Nicholas_Matthews6"
   uri              :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nmatt323"
+  twitter          : "ne_matthews"
   vine             :
   weibo            :
   xing             :
