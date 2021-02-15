@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: Introduction"
-collection: thesis
-type: "thesis chapter"
+layout: archive
 permalink: /thesis/chapter_1
 ---
 
